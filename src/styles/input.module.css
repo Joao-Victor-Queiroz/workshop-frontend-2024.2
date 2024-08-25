@@ -1,0 +1,14 @@
+.pesquisa_site input{
+  background: transparent;
+  border: none;
+  width: 200px;
+  height: 30px;
+  border-bottom: 2px solid whitesmoke;
+  padding: 0 10px;
+}
+
+.pesquisa_site input:focus{
+    outline: none; 
+}
+
+
