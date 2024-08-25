@@ -42,4 +42,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # workshop-frontend-2024.2
 Desafio para integrar na Fábrica de Software, projeto de extensão da universidade Unipê na sua edição de 2024.2
+
+A aplicação envolve consumir uma API do jogo Valorant, da Riot games, e exibir na tela os personagens do jogo, junto do seu nome e descrição.
+
+# Responsividade
+Foram adicionados algumas media queries para deixar o site minimamente responsivo em diferentes telas, permitindo uma adaptação do conteúdo principalmente em telas menores.
+
+# Pesquisa de Agentes
+Também foi adicionado um input que retorna uma tela de resultados baseado no nome pesquisado ou na função (role) do agente. 
 >>>>>>> 2dffae719bfe537779ae6ffb5c3fc94b7fa04a97
