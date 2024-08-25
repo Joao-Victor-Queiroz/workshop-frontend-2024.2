@@ -50,4 +50,7 @@ Foram adicionados algumas media queries para deixar o site minimamente responsiv
 
 # Pesquisa de Agentes
 Também foi adicionado um input que retorna uma tela de resultados baseado no nome pesquisado ou na função (role) do agente. 
+
+# Deploy no Vercel
+A aplicação está no ar pelo Vercel! Acesse por esse link: https://workshop-frontend-2024-2-p96kii3bx-joaos-projects-0bdf33ed.vercel.app/
 >>>>>>> 2dffae719bfe537779ae6ffb5c3fc94b7fa04a97
